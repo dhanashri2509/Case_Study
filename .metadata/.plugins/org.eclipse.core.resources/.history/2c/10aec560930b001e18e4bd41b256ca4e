@@ -1,0 +1,5 @@
+package com.dhanshri.exception;
+
+public class CustomExceptionList {
+
+}
